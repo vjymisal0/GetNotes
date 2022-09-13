@@ -19,7 +19,14 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #eee;
+    background-color: lightsteelblue;
+    display: flex;
+    color: var(--black);
+    flex-direction: column;
+    height: 79vh;
+    justify-content: center;
+    align-items: center;
+
 }
 
 /* UTILITY */
@@ -48,10 +55,19 @@ img {
     width: 100%;
 }
 
-.container {
+.container,
+.container1 {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 20px;
+    /* justify-content: center; */
+}
+
+.container1 {
+    margin-top: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
 }
 
 header h1 {
@@ -116,6 +132,7 @@ form button:hover {
 .note-title {
     font-size: 1.5rem;
     color: var(--black);
+    justify-content: center;
 }
 
 .note-btn {
@@ -124,13 +141,22 @@ form button:hover {
     font-size: 1rem;
     background-color: rgb(247, 1, 1);
     color: #fff;
+    font-family: 'Hack';
+    font: bold;
     border: none;
-    border-radius: 3px;
+    border-radius: 5rem;
     outline: none;
     cursor: pointer;
 }
 
+.note-btn:hover {
+    background-color: black;
+    color: cyan;
+    transition-delay: 0.5s;
+    animation-delay: 0.5ms;
+}
+
 .edit-btn {
-    background-color: cyan;
-    color: #1c2b2d;
+    background-color: #9d0191;
+    color: white;
 }
