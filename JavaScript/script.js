@@ -79,7 +79,6 @@ function deleteNote(index) {
   let confirmDel = confirm("Delete this note?");
   if (confirmDel) {
     let notes = localStorage.getItem("notes");
-   
 
     notesObj.splice(index, 1);
     localStorage.setItem("notes", JSON.stringify(notesObj));
