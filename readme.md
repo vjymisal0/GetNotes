@@ -33,7 +33,7 @@
 </ul>
 <hr>
 <p>Preview:</p>
-<img src="./ss/getnotes2.png" alt="Get Notes" width="100%">
+<img src="./ss/getnotes1.png" alt="Get Notes" width="100%">
 <hr>
 <p>Live Preview:</p>
 <a href="https://vjymisal0.github.io/GetNotes">Get Notes</a>
