@@ -36,7 +36,7 @@
 <img src="./ss/getnotes1.png" alt="Get Notes" width="100%">
 <hr>
 <p>Live Preview:</p>
-<a href="https://vjymisal0.github.io/GetNotes">Get Notes</a>
+<a href="https://vjymisal0.github.io/GetNotes" target="__blank">Get Notes</a>
 <hr>
 <p>Issues:</p>
 <ul>
