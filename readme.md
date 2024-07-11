@@ -28,8 +28,8 @@
 <hr>
 <p>Author:</p>
 <ul>
-  <li>Vijay Misal</li>
-    <li>Atharva Karandikar</li>
+  <li>Vijay Misal</li> <a href="https://www.linkedin.com/in/vijay-misal-b4b19b222/" target="_blank">LinkedIn</a>
+    <li>Atharva Karandikar</li><a href="https://www.linkedin.com/in/athkarandikar/" target="_blank">LinkedIn</a>
 </ul>
 <hr>
 <p>Preview:</p>
